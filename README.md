@@ -1,4 +1,4 @@
-Overview
+Overview:
 This repository contains my work related to statistical measures and hypothesis testing. I’ve explored various topics, including:
 Measures of Skewness and Kurtosis: Understanding the shape of data distributions.
 Percentiles and Quartiles: Analyzing data distribution at specific points.
